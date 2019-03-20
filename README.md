@@ -1,3 +1,3 @@
 # js-battleship
 
-Just a 1 dimensional Battle ship game to learn some JS.
+Just a 1 dimensional Battleship game to learn some JS.
